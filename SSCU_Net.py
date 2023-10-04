@@ -3,9 +3,12 @@ import torch.nn as nn
 import torch.nn.functional as F
 from thop import profile
 
-# Authors: Yuquan XU, Yuefei Wang
-# Chengdu University
-# 2023.10
+"""
+Authors: Yuquan Xu, Yuefei Wang
+Chengdu University
+2023.10
+For research and clinical study only, commercial use is strictly prohibited
+"""
 
 
 class ConvBlock(nn.Module):
