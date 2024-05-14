@@ -8,7 +8,8 @@ In response to this, we propose a unique approach with the Shallow Super Convolu
 
 # Model Architecture
 
-<img width="697" alt="SSC-UNet" src="https://github.com/YF-W/SSCU-Net/assets/66008255/79ae8410-b4d5-47b8-9850-8e187170c65a">
+![7295788048a638797ba1a15d90929d06_720](https://github.com/YF-W/SSCU-Net/assets/66008255/365b318b-89f4-4c65-82fe-9e09b64b2d95)
+
 
 # Env
 
